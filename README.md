@@ -1,6 +1,6 @@
 # JUnit-Webform-Automation
 
-In this repository I have automated a website webform and uploaded an image; After successful submission, asserted the submission with a successful message using Selenium and Junit.
+In this repository I have automated a website webform and uploaded an image; After successful submission, asserted the submission with a successful message using Selenium and JUnit.
 
 ## Technology used:
 - IntelliJ 

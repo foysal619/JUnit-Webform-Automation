@@ -14,14 +14,11 @@ In this repository I have automated a website webform and uploaded an image; Aft
 - Open the IntelliJ IDE and click on OPEN and select the project path
 - Select the "build.gradle" file and Open as Project
 
-## Website used for this automation:
-- [https://demoqa.com/](https://www.digitalunite.com/practice-webform-learners)
-
 ## Assigned work scenario:
 Automate the following webform
 https://www.digitalunite.com/practice-webform-learners
 
-During the web form submission process, upload any file like ppt, or pdf or xlsx, etc.
+During the web form submission process, upload any file like ppt, pdf or xlsx, etc.
 After successful submission, assert the expected message as: Thank you for your submission!
 
 ## Prerequisite:

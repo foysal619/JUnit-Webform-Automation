@@ -11,7 +11,8 @@ In this repository I have automated a website webform and uploaded an image; Aft
   
 ## How to run this project:
 - Clone this project
--  Give this following command ``` gradle clean Test ```
+- Open the IntelliJ IDE and click on OPEN and select the project path
+- Select the "build.gradle" file and Open as Project
 
 ## Website used for this automation:
 - [https://demoqa.com/](https://www.digitalunite.com/practice-webform-learners)
@@ -20,7 +21,7 @@ In this repository I have automated a website webform and uploaded an image; Aft
 Automate the following webform
 https://www.digitalunite.com/practice-webform-learners
 
-During the web form submission process, upload any file like ppt or pdf or xlsx etc.
+During the web form submission process, upload any file like ppt, or pdf or xlsx, etc.
 After successful submission, assert the expected message as: Thank you for your submission!
 
 ## Prerequisite:
@@ -42,6 +43,13 @@ This repository contains a report that has been automatically generated.
 ![image](https://github.com/foysal619/Junit-Webform-Automation/assets/61048879/a7ecb907-50e6-4b00-95f5-1af2bd574d48)
 
 <img width="464" alt="image" src="https://github.com/foysal619/Junit-Webform-Automation/assets/61048879/0aff981e-731f-46d8-bc3e-c949b4eeae13">
+
+## Demonstration
+https://github.com/foysal619/Junit-Webform-Automation/assets/61048879/50ccfd38-0581-4abe-ab2f-cfed36b20360
+
+
+
+
 
 
 
